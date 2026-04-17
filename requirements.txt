@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+langchain-ollama
+langchain-chroma
+langchain
+requests
+beautifulsoup4
+pydantic
